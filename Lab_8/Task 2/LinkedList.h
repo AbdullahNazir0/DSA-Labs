@@ -1,6 +1,8 @@
 #ifndef H_LinkedList
 #define H_LinkedList
 
+#include "Node.h"
+
 template <typename T>
 class LinkedList
 {
